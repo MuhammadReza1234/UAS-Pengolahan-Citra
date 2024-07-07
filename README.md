@@ -54,9 +54,9 @@
 
 - Gambar Parkiran Kampus UPB
    
-      <img width="602" alt="Parkir" src="https://github.com/MuhammadReza1234/UAS-Pengolahan-Citra/assets/115516607/6ea21c9c-8efc-405a-bacc-3c03b2b21e3b">
-
-      Hasil Foto Dengan Menggunakan Hp Huawei p30 pro , 40 MP , Halaman parkir Kampus Pelita Bangsa (luar ruangan)
+  <img width="602" alt="Parkir" src="https://github.com/MuhammadReza1234/UAS-Pengolahan-Citra/assets/115516607/6ea21c9c-8efc-405a-bacc-3c03b2b21e3b">
+  
+  Hasil Foto Dengan Menggunakan Hp Huawei p30 pro , 40 MP , Halaman parkir Kampus Pelita Bangsa (luar ruangan)
 
       ---
 
